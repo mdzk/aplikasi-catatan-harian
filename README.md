@@ -19,3 +19,7 @@ Merupakan aplikasi android yang dikembangkan dengan menggunakan bahasa pemrogram
 - [Winna Asmara](https://www.github.com/)
 - [Yuandari Astuti](https://www.github.com/)
 
+
+
+
+selesai dan sudah dinilai :heavy_check_mark:
